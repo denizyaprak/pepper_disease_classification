@@ -1,1 +1,1 @@
-# tomato_disease_classification
+# pepper_disease_classification
